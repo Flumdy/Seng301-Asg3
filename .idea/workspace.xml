@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cbb991f-7441-4e06-9812-9b6fe31c8516" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANSWERS.md" beforeDir="false" afterPath="$PROJECT_DIR$/ANSWERS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/egg/ChocolateEggFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/egg/ChocolateEggFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/egg/ChocolateType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/egg/ChocolateType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/egg/HollowEggFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/egg/HollowEggFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/egg/StuffedEggFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/egg/StuffedEggFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/MixedBoxStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/MixedBoxStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/MixedHollowEggStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/MixedHollowEggStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/PreparingOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/PreparingOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/RegularBoxStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/RegularBoxStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/RegularHollowEggStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/RegularHollowEggStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/StrategyBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/StrategyBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/StrategyContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/order/StrategyContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/packaging/Packaging.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/packaging/Packaging.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/packaging/PackagingType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/uc/seng301/asg3/packaging/PackagingType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/egg/ChocolateEggFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/egg/ChocolateEggFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/egg/ChocolateType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/egg/ChocolateType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/egg/HollowEggFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/egg/HollowEggFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/egg/StuffedEggFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/egg/StuffedEggFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/MixedBoxStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/MixedBoxStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/MixedHollowEggStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/MixedHollowEggStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/PreparingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/PreparingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/RegularBoxStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/RegularBoxStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/RegularHollowEggStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/RegularHollowEggStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/StrategyBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/StrategyBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/StrategyContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/order/StrategyContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/packaging/Packaging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/packaging/Packaging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/packaging/PackagingType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uc/seng301/asg3/packaging/PackagingType.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1chbLPo0YF8pu0P0FbzYQCFadV8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cbb991f-7441-4e06-9812-9b6fe31c8516" name="Default Changelist" comment="" />
+      <created>1590983716341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590983716341</updated>
+      <workItem from="1590983721734" duration="25443000" />
+      <workItem from="1591051386721" duration="9172000" />
+      <workItem from="1591236543871" duration="12339000" />
+      <workItem from="1591319882401" duration="6942000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2568" y="235" width="374" height="572" key="#com.intellij.ide.util.MemberChooser" timestamp="1590996211972">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2568" y="235" width="374" height="572" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1590996211972" />
+    <state x="2608" y="416" width="293" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1590984026742">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2608" y="416" width="293" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1590984026742" />
+    <state x="2493" y="274" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591326512738">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2493" y="274" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1591326512738" />
+    <state x="2443" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1591319894461">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2443" y="351" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1591319894461" />
+    <state x="2436" y="266" width="647" height="516" key="find.popup" timestamp="1590984911389">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2436" y="266" width="647" height="516" key="find.popup/0.0.1920.1040/1920.0.1680.1050@1920.0.1680.1050" timestamp="1590984911389" />
+  </component>
+</project>
